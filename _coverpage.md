@@ -1,6 +1,8 @@
-<img width="160px" style="border-radius: 50%" bor src="/media/logo.jpg">
+<img width="160px" style="border-radius: 60%" bor src="/media/logo.jpg">
 
-### IF AT FIRST YOU DON’T SUCCEED, CALL IT VERSION 1.0
+### 一篇学习`Docker`的文档
+### `Docker`文档就应该通俗易懂
+### 在任何地方安全地构建，共享和运行任何应用程序
 
 <p align="center">
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />

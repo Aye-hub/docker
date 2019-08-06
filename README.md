@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to Docker DOC 👋</h1>
 <p align="center">
   <a href="https://docker.1mi.top">
-    <img alt="linuxDoc" src="/media/logo.jpg">
+    <img alt="linuxDoc" src="/media/docker.jpg">
   </a>
 </p>
 <p align="center">
@@ -18,6 +18,11 @@
 </p>
 
 !> :stuck_out_tongue_winking_eye:由于作者才疏学浅，文中有错误的地方还望指正。😊
+
+## 🎺作者有话说
+* 此文档是我学习`Docker`过程中，记下的笔记，为了方便查阅，做成了文档。
+* 感谢[尚硅谷](http://www.gulixueyuan.com/)`周阳`老师的`Docker`教程。
+* 本站使用`docsify`搭建，感谢所有支持者、赞助者以及贡献者们。
 
 ## 🤙联系作者
 * 📫[i@123hub.cn](mailto:i@123hub.cn)
