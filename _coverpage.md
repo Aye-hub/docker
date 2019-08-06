@@ -1,9 +1,7 @@
-<h1 align="center">Welcome to Docker DOC 👋</h1>
-<p align="center">
-  <a href="https://docker.1mi.top">
-    <img alt="linuxDoc" src="/media/logo.jpg">
-  </a>
-</p>
+<img width="160px" style="border-radius: 50%" bor src="/media/logo.jpg">
+
+### IF AT FIRST YOU DON’T SUCCEED, CALL IT VERSION 1.0
+
 <p align="center">
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
    <a href="https://github.com/Aye-hub/1mi?icon=github&color=4ab8a1">
@@ -17,9 +15,5 @@
   </a>
 </p>
 
-!> :stuck_out_tongue_winking_eye:由于作者才疏学浅，文中有错误的地方还望指正。😊
-
-## 🤙联系作者
-* 📫[i@123hub.cn](mailto:i@123hub.cn)
-* :iphone:[QQ:1337426477](http://wpa.qq.com/msgrd?v=3&uin=1337426477&site=qq&menu=yes)
-* 🏠[My Blog](https://www.lvzhenye.club)
+[个人博客](https://www.lvzhenye.club)
+[开始查看](/README)
