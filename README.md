@@ -25,6 +25,6 @@
 * 本站使用`docsify`搭建，感谢所有支持者、赞助者以及贡献者们。
 
 ## 🤙联系作者
-* 📫[i@1mi.top](mailto:i@1mi.top)
+* 📫[i@icore.cc](mailto:i@icore.cc)
 * :iphone:[QQ:1337426477](http://wpa.qq.com/msgrd?v=3&uin=1337426477&site=qq&menu=yes)
 * 🏠[My Blog](https://www.lvzhenye.club)
